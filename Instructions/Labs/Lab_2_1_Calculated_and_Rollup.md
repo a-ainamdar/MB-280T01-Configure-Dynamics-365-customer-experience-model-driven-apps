@@ -1,3 +1,7 @@
+---
+lab:
+    title: 'Lab 2.1: Create calculated and rollup fields'
+---
 
 # Lab 2.1: Create calculated and rollup fields 
 
