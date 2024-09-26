@@ -1,3 +1,7 @@
+---
+lab:
+    title: 'Lab 4.3: Create a dashboard'
+---
 
 # Lab 4.3: Create a dashboard 
 
