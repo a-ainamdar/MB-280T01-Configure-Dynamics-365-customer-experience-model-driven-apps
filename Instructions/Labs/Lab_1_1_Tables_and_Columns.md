@@ -1,6 +1,9 @@
+---
+lab:
+    title: 'Lab 1.1: Create and manage tables and columns
+---
 
-
-# Lab 1: Data Modeling
+# Lab 1.1: Create and manage tables and columns
 
 ## Scenario
 Bellows College is an educational organization with multiple campuses and programs. Many of Bellow Colleges instructors and administrators need to attend events, and purchase items. Historically tracking these expenses has been a challenge.
