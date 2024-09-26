@@ -1,7 +1,3 @@
----
-lab:
-    title: 'Lab 1.1: Create and manage tables and columns
----
 
 # Lab 1.1: Create and manage tables and columns
 
