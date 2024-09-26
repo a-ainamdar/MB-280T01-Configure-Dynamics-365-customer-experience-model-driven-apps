@@ -1,5 +1,9 @@
+---
+lab:
+    title: 'Lab 4.2: Create forms'
+---
 
-# Lab 4.2: Create Forms
+# Lab 4.2: Create forms
 
 ## Scenario
 Bellows College is an educational organization with multiple campuses and programs. Many of Bellow Colleges instructors and administrators need to attend events, and purchase items. Historically tracking these expenses has been a challenge.
