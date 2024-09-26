@@ -75,6 +75,6 @@ For simplicity and time’s sake, we will not be addressing all of the Expense R
 
 Your running model-driven app should look approximately like the following:
 
-![A screenshot of the model-driven app screen.](./Media/Model-driven-apps.png)
+![A screenshot of the model-driven app screen.](./Media/Model_driven_apps.png)
 
 Congratulations! You have created and configured your first model-driven app.
