@@ -72,3 +72,9 @@ For simplicity and time’s sake, we will not be addressing all of the Expense R
 4. Select Save & Close. This will create the new Test Report and you should be able to see it on the Active Expense Reports view.
 5. Change view to Expense Reports Due Today by using the drop-down next to Active Expense Reports.
 6. You may add some more test records.
+
+Your running model-driven app should look approximately like the following:
+
+![A screenshot of the model-driven app screen.](./Media/Model-driven-apps.png)
+
+Congratulations! You have created and configured your first model-driven app.
