@@ -1,3 +1,7 @@
+---
+lab:
+    title: 'Lab 4.1: Build a model-driven app'
+---
 
 # Lab 4.1: Build a model-driven app
 
