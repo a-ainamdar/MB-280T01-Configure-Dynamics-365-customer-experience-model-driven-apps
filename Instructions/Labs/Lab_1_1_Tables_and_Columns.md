@@ -28,7 +28,7 @@ Upon Successful completion of this lab, you will:
 
 ### Task #1: Import the solution
 The Expense Report table will contain information about the expense report that the individual is submitting.
-1. If you are not already signed in, sign into *An external link was removed to protect your privacy.*
+1. If you are not already signed in, sign into make.powerapps.com using your environment credentials.
 2. From the Environment menu in the top right, ensure in the environment that you want to import the solution to.
 3. Using the navigation on the left, select Solutions.
 4. On the command bar at the top select Import Solution.
