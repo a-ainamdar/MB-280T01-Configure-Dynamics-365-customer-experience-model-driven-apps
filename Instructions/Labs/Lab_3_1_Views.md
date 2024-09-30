@@ -40,8 +40,8 @@ Completion of Module 1 Lab 0 - Validate lab environment
 5. Locate and open the Expense Line table.
 6. Under Data experiences, select **Views.**
 7. Open the **Active Expense Lines** view.
-8. Select **View Column** and from the menu that appears, select **Expense Date:**
-9. Select **View Column** and from the menu that appears, select **Item Description:**
+8. Select **View Column** and from the menu that appears, select **Expense Date.**
+9. Select **View Column** and from the menu that appears, select **Item Description.**
 10. Repeat step nine to add the following columns:
     - Expense Type
     - Expense Amount
@@ -55,8 +55,8 @@ Next, we will repeat that process to update the Expense Line Associated View. Th
 ### Task #2: Update the Expense Line Associated View 
 
 1. Locate and open the Expense Line Associated view.
-2. Select **View Column** and from the menu that appears, select **Expense Date:**
-3. Select **View Column** and from the menu that appears, select **Item Description:**
+2. Select **View Column** and from the menu that appears, select **Expense Date.**
+3. Select **View Column** and from the menu that appears, select **Item Description.**
 4. Repeat step nine to add the following columns:
     - Expense Type
     - Expense Amount
@@ -70,8 +70,8 @@ Finally, we will repeat that process one more time to update the Quick Find Acti
 ### Task #3: Update the Quick Find view
 
 1. Locate and open the Quick Find Active Expense Lines view.
-2. Select **View Column** and from the menu that appears, select **Expense Date:**
-3. Select **View Column** and from the menu that appears, select **Item Description:**
+2. Select **View Column** and from the menu that appears, select **Expense Date.**
+3. Select **View Column** and from the menu that appears, select **Item Description.**
 4. Repeat step nine to add the following columns:
     - Expense Type
     - Expense Amount
@@ -94,8 +94,8 @@ Finally, we will repeat that process one more time to update the Quick Find Acti
 5. Locate and open the Expense Report table.
 6. Under Data experiences, select **Views.**
 7. Open the **Active Expense Reports** view.
-8. Select View Column and from the menu that appears, select **Report Purpose:**
-9. Select View Column and from the menu that appears, select **Report Due Date:**
+8. Select View Column and from the menu that appears, select **Report Purpose.**
+9. Select View Column and from the menu that appears, select **Report Due Date.**
 10. Repeat step nine to add the following columns:
     - Report Total
     - Last Date for Approval
@@ -109,8 +109,8 @@ Next, we will repeat that process to update the Inactive Expense Reports view.
 ### Task #5: Update the Inactive Expense Reports view
 
 1. Locate and open the Inactive Expense Reports view.
-2. Select View Column and from the menu that appears, select **Report Purpose:**
-3. Select View Column and from the menu that appears, select **Report Due Date:**
+2. Select View Column and from the menu that appears, select **Report Purpose.**
+3. Select View Column and from the menu that appears, select **Report Due Date.**
 4. Repeat step nine to add the following columns:
     - Report Total
     - Last Date for Approval
@@ -124,8 +124,8 @@ Next, we will repeat that process to update the Inactive Expense Reports view.
 Finally, we will repeat that process one more time to update the Quick Find Active Expense Reports View. This is the view that is used whenever a user uses the search field to look for a specific Expense Report.
 
 1. Locate and open the Quick Find Active Expense Reports view.
-2. Select View Column and from the menu that appears, select **Report Purpose:**
-3. Select View Column and from the menu that appears, select **Report Due Date:**
+2. Select View Column and from the menu that appears, select **Report Purpose.**
+3. Select View Column and from the menu that appears, select **Report Due Date.**
 4. Repeat step nine to add the following columns:
     - Report Total
     - Last Date for Approval
