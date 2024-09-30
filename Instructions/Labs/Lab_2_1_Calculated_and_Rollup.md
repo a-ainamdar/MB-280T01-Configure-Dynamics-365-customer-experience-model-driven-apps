@@ -73,6 +73,6 @@ The Expense Report table will contain information about the expense report that 
 7. Select **+New column.**
 8. Enter *Last Date for approval* for Display name.
 9. Select **Formula** for Data type.
-10. Enter the following formula: `DateAdd(‘Report Due Date’,2)`
+10. Enter the following formula: DateAdd(‘Report Due Date’,2)
 11. Set the Format field to **Date Only.**
 12. Select the **Save** button. (You need to save the column before you can configure it.)
