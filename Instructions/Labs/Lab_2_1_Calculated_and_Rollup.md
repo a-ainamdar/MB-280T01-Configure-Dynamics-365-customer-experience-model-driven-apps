@@ -38,7 +38,7 @@ The Expense Report table will contain information about the expense report that 
 
 *Note: it can take several minutes for the solution to be imported into your environment.*
 
-## Exercise 1: Create Calculated and Rollup fields
+## Exercise 2: Create Calculated and Rollup fields
 **Objective:** In this exercise, create a rollup field on the expense report table that adds up the total of all expense lines for the report.
 
 ### Task #1: Add a rollup field to the Expense Report table
