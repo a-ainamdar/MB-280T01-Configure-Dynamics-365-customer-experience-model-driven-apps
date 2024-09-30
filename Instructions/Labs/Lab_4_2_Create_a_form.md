@@ -61,7 +61,7 @@ In this task, we will modify the form that is used to add Expense Line Items.
 2. Select the environment that you imported the Expense Report solution into at the top right if it is not already selected.
 3. Using the navigation on the left, select Solutions.
 4. Open the Expense Report solution.
-5. Locate and open the Expense Report table.
+5. Locate and open the Expense Line table.
 6. Under the Data experiences section, select Forms and open the Information form with Main Form type. (Important: Make sure you select the form with the form type of Main.)
 
 **IMPORTANT:** Since by default all forms are named Information, make sure to verify that the form you select has a Form Type of Main and not something else. By default, the form has two fields: Name and Owner.
@@ -73,5 +73,4 @@ In this task, we will modify the form that is used to add Expense Line Items.
     - Expense Amount
     - Expense Report
 3. Drag the **Status Reason** column and drop it in the form header. The header is the top right area of the form. You may need to collapse the Properties panel on the right side of the screen to see the field on the form.
-4. Drag the **Last Date for Approval column** and drop it next to Status Reason in the form header.
-5. Select the **Save and Publish** button.
+4. Select the **Save and Publish** button.
