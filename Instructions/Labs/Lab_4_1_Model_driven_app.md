@@ -27,54 +27,54 @@ Both will be integrated to the model-driven app for a better user-experience.
 For simplicity and time’s sake, we will not be addressing all of the Expense Report columns in this lab.
 
 ### Task #1: Create app
-1. If you are not already, sign in to https://make.powerapps.com
+1. If you are not already, sign in to https://make.powerapps.com.
 2. Select the environment that you imported the Expense Report solution into at the top right if it is not already selected.
-3. Using the navigation on the left, select Solutions.
+3. Using the navigation on the left, select **Solutions.**
 4. Open the Expense Report solution.
-5. On the command bar, select the + New button.
-6. From the menu that appears, go to App > Model-driven app
-7. Enter Employee Expense Management for Name and select Create.
-8. After your new model-driven application loads, select the + Add Page button.
-9. On the Add Page screen, choose Dataverse table, and then select the Next button.
+5. On the command bar, select the **+ New** button.
+6. From the menu that appears, go to **App > Model-driven app.**
+7. Enter *Employee Expense Management* for Name and select **Create.**
+8. After your new model-driven application loads, select the **+ Add Page** button.
+9. On the **Add Page** screen, choose Dataverse table, and then select the **Next** button.
 10. Select the following tables:
     - Expense Report
     - Expense Line
 11. Make sure that Show in navigation is selected.
-12. After you have selected both tables, select Add.
-13. Using the navigation icons on the left side of the screen, select Navigation.
-14. On the Navigation Pane, select New Group below where it says Navigation. You may need to expand the menu on the left.
-15. On the right side of the screen, in the Display options section, change the Title property to Expense Reports.
-16. Under the Navigation section, select the Ellipsis (three dots), from the menu that appears, select Move Up. Expense Reports should now appear above Expense Lines in the navigation.
-17. Under Navigation, select Expense Reports form.
+12. After you have selected both tables, select **Add.**
+13. Using the navigation icons on the left side of the screen, select **Navigation.**
+14. On the Navigation Pane, select **New Group** below where it says Navigation. You may need to expand the menu on the left.
+15. On the right side of the screen, in the Display options section, change the Title property to *Expense Reports.*
+16. Under the Navigation section, select the **Ellipsis (three dots)**. From the menu that appears, select **Move Up**. Expense Reports should now appear above Expense Lines in the navigation.
+17. Under Navigation, select the **Expense Reports** form.
 18. Go to the In this app section on the right side of the screen.
-19. Select Show more.
-20. Select the Ellipsis next to Information Quick View Form.
-21. From the menu that appears, select Remove.
-22. Select the Ellipsis next to Information Card Form.
-23. From the menu that appears, select Remove.
-24. Under Navigation, select Expense Lines form.
+19. Select **Show more.**
+20. Select the **Ellipsis** next to Information Quick View Form.
+21. From the menu that appears, select **Remove.**
+22. Select the **Ellipsis** next to Information Card Form.
+23. From the menu that appears, select **Remove.**
+24. Under Navigation, select **Expense Lines** form.
 25. Go to the In this app section on the right side of the screen.
-26. Select Show more.
-27. Select the Ellipsis next to Information Quick View Form.
-28. From the menu that appears, select Remove.
-29. Select the Ellipsis next to Information Card Form.
-30. From the menu that appears, select Remove.
-31. Select Save and wait until the changes are saved.
-32. Once the Save is complete, select the Publish button to publish your changes. Wait for the publishing to complete.
+26. Select **Show more.**
+27. Select the **Ellipsis** next to Information Quick View Form.
+28. From the menu that appears, select **Remove.**
+29. Select the **Ellipsis** next to Information Card Form.
+30. From the menu that appears, select **Remove.**
+31. Select **Save** and wait until the changes are saved.
+32. Once the save is complete, select the **Publish** button to publish your changes. Wait for the publishing to complete.
 
 ### Task #2: Test app
 **Start the application**
 1. Select the Play button, the model-driven app will load in a new tab.
 
 **Create a new Expense Report**
-1. Select Expense Reports from the left-hand navigation (Also known as the sitemap.)
-2. Select + New.
+1. Select **Expense Reports** from the left-hand navigation (also known as the sitemap).
+2. Select **+ New.**
 3. Enter the fields as follows:
-    - Report Name: new Test Report
-    - Report Purpose: select Conference
-    - Report due date: Select Today's date
-4. Select Save & Close. This will create the new Test Report and you should be able to see it on the Active Expense Reports view.
-5. Change view to Expense Reports Due Today by using the drop-down next to Active Expense Reports.
+    - Report Name: *New Test Report*
+    - Report Purpose: Select **Conference**
+    - Report due date: Select **Today's date**
+4. Select **Save & Close.** This will create the new Test Report and you should be able to see it on the Active Expense Reports view.
+5. Change view to **Expense Reports Due Today** by using the drop-down next to Active Expense Reports.
 6. You may add some more test records.
 
 Your running model-driven app should look approximately like the following:
