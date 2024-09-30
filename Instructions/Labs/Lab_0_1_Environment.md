@@ -1,7 +1,6 @@
 ---
 lab:
     title: 'Lab 0: Validate lab environment'
-    module: 'Learning Path 0: Course Introduction'
 ---
 
 # Practice Lab 0 - Validate lab environment
