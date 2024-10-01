@@ -31,7 +31,7 @@ We will work with the following components:
 5. Locate and open the Expense Report table.
 6. Under the Data experiences section, select **Forms** and open the Information form with Main Form type. (Important: Make sure you select the form with the form type of Main.)
 
-**IMPORTANT:** Since by default all forms are named Information, make sure to verify that the form you select has a Form Type of Main and not something else. By default, the form has two fields: Name and Owner.
+**IMPORTANT:** Since by default all forms are named Information, make sure to verify that the form you select has a Form Type of Main and not something else. By default, the form has two fields: Report Name and Owner.
 
 ### Task #2: Select columns for the form
 1. On the right side of the screen on the Properties panel, select the **Display Name** field, and change it to Report Information.
@@ -64,7 +64,7 @@ In this task, we will modify the form that is used to add Expense Line Items.
 5. Locate and open the Expense Line table.
 6. Under the Data experiences section, select Forms and open the Information form with Main Form type. (Important: Make sure you select the form with the form type of Main.)
 
-**IMPORTANT:** Since by default all forms are named Information, make sure to verify that the form you select has a Form Type of Main and not something else. By default, the form has two fields: Name and Owner.
+**IMPORTANT:** Since by default all forms are named Information, make sure to verify that the form you select has a Form Type of Main and not something else. By default, the form has two fields: Expense Title and Owner.
 
 1. On the right side of the screen on the **Properties** panel, select the **Display Name** field, and change it to Item Details.
 2. Select **Table columns** from the left navigation pane and add the following fields below the Owner field by dragging columns to the form or simply clicking column names:
