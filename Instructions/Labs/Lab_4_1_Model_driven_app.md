@@ -35,7 +35,7 @@ For simplicity and time’s sake, we will not be addressing all of the Expense R
 6. From the menu that appears, go to **App > Model-driven app.**
 7. Enter *Employee Expense Management* for Name and select **Create.**
 8. After your new model-driven application loads, select the **+ Add Page** button.
-9. On the **Add Page** screen, choose Dataverse table, and then select the **Next** button.
+9. On the **Add Page** screen, choose **Dataverse table.** 
 10. Select the following tables:
     - Expense Report
     - Expense Line
@@ -44,7 +44,7 @@ For simplicity and time’s sake, we will not be addressing all of the Expense R
 13. Using the navigation icons on the left side of the screen, select **Navigation.**
 14. On the Navigation Pane, select **New Group** below where it says Navigation. You may need to expand the menu on the left.
 15. On the right side of the screen, in the Display options section, change the Title property to *Expense Reports.*
-16. Under the Navigation section, select the **Ellipsis (three dots)**. From the menu that appears, select **Move Up**. Expense Reports should now appear above Expense Lines in the navigation.
+16. Under the Navigation section, select the **Ellipsis (three dots)** next to **Expense Reports.** From the menu that appears, select **Move Up**. Expense Reports should now appear above Expense Lines in the navigation.
 17. Under Navigation, select the **Expense Reports** form.
 18. Go to the In this app section on the right side of the screen.
 19. Select **Show more.**
