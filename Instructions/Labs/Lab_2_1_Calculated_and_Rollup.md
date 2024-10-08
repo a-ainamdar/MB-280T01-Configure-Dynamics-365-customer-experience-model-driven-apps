@@ -12,34 +12,18 @@ Ideally, they want their users to complete an Expense Report after each event or
 
 ## High-level lab steps
 Upon Successful completion of this lab, you will:
-- Import a Solution into your environment that includes the Expense Report Table.
-- Create Expense line-item table
-- Add the necessary columns to the Expense line-item table
-- Add some sample data.
+- Add new fields to an existing tables
+- Create a rollup field
+- Create a calculated field
 
 ## Prerequisites
-- Completion of Module 1 Lab 0 - Validate lab environment
+- Completion of Module 1 Lab 0 - Validate lab environment and Lab 1.1, where you imported the Expense Report solution
 
 ## Things to consider before you begin
 - Naming conventions - enter names carefully.
 
-## Exercise 1: Import the Expense Report solution into your environment
-**Objective:** In this exercise, you will import the Expense Report solution that includes the Expense Report table.
-
-### Task #1: Import the solution
-The Expense Report table will contain information about the expense report that the individual is submitting.
-1. If you are not already signed in, sign into **make.powerapps.com.**
-2. From the Environment menu in the top right, ensure you are in the environment that you imported the Expense Report solution into.
-3. Using the navigation on the left, select **Solutions.**
-4. On the command bar at the top select **Import Solution.**
-5. Select the **Browse** button.
-6. Locate and select the `ExpenseReport_1_0_0_1` solution file that was in your course materials.
-7. Select the **Import** button.
-
-*Note: it can take several minutes for the solution to be imported into your environment.*
-
-## Exercise 2: Create Calculated and Rollup fields
-**Objective:** In this exercise, create a rollup field on the expense report table that adds up the total of all expense lines for the report.
+## Exercise 1: Create Calculated and Rollup fields
+**Objective:** In this exercise, create a rollup and a calculated field on the expense report table.
 
 ### Task #1: Add a rollup field to the Expense Report table
 1. If necessary, navigate to the Power Apps Maker Portal.
@@ -61,7 +45,7 @@ The Expense Report table will contain information about the expense report that 
 17. Under AGGREGATION, select **+Add aggregation.**
 18. Set Aggregate Function to **Sum.**
 19. Set Aggregated Related Entity Field to **(Expense Line) Expense Amount.**
-20. Select the **Save and Close** button.
+20. Select the green check mark and then select the **Save and Close** button.
 
 ### Task #2: Add a Power FX Formula Calculated field to the Expense Report table
 1. If necessary, navigate to the Power Apps Maker Portal.
