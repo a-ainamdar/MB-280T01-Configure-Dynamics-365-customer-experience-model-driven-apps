@@ -1,9 +1,9 @@
 ---
 lab:
-    title: 'Lab 3.1: Visualize data with views'
+    title: 'Lab 4.1: Visualize data with views'
 ---
 
-# Lab 3.1: Visualize data with views
+# Lab 4.1: Visualize data with views
 
 ## Scenario
 
