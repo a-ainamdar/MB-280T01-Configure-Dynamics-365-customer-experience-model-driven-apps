@@ -1,9 +1,9 @@
 ---
 lab:
-    title: 'Lab 4.1: Build a model-driven app'
+    title: 'Lab 4.4: Build a model-driven app'
 ---
 
-# Lab 4.1: Build a model-driven app
+# Lab 4.4: Build a model-driven app
 
 ## Scenario
 Bellows College is an educational organization with multiple campuses and programs. Many of Bellow Colleges instructors and administrators need to attend events, and purchase items. Historically tracking these expenses has been a challenge.
