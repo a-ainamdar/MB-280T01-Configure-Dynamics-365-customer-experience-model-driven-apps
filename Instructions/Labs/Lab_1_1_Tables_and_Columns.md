@@ -28,7 +28,7 @@ Upon Successful completion of this lab, you will:
 
 ### Task #1: Import the solution
 The Expense Report table will contain information about the expense report that the individual is submitting.
-1. If you are not already signed in, sign into make.powerapps.com using your environment credentials.
+1. If you are not already signed in, sign into `make.powerapps.com` using your environment credentials.
 2. From the Environment menu in the top right, ensure you are in the environment that you want to import the solution to.
 3. Using the navigation on the left, select **Solutions.**
 4. On the command bar at the top select **Import Solution.**
@@ -49,8 +49,8 @@ The Expense Report table will contain information about the expense report that 
 5. Select the **New** button.
 6. From the menu that appears, go to **Table.** Next, select **Set advanced properties.**
 7. Configure your new table as follows:
-   - Display name: Expense Line
-   - Plural name: Expense Lines
+   - Display name: `Expense Line`
+   - Plural name: `Expense Lines`
    - Enable attachments (Including notes and files): Selected
 8. Select the Primary Column tab and change the Display Name to Expense Title.
 9. Select the Save button.
@@ -60,20 +60,20 @@ The Expense Report table will contain information about the expense report that 
 ### Task #2: Add the necessary columns to the Expense Line table
 1. With the Expense Line table open, select Columns under the Schema group.
 2. Select **+ New column.**
-3. Enter **Expense Type** for Display name.
+3. Enter **`Expense Type`** for Display name.
 4. Select **Choice > Choice** for Data type.
 5. In Required, select **Optional.**
 6. Set Sync with global Choice to **Yes (recommended)**.
 7. Under the Sync this choice with field, select **+ New Choice.**
-8. In the Display Name field, enter *Expense Type.*
-9. In the Label field for the first choice, enter *Meals.*
+8. In the Display Name field, enter *`Expense Type`*.
+9. In the Label field for the first choice, enter *`Meals`*.
 10. Select **+ New Choice.**
-11. In the Label field, enter *Lodging.*
+11. In the Label field, enter *`Lodging`*.
 12. Repeat Steps 10 & 11 to add the following options:
-    - Travel
-    - Entertainment
-    - Supplies / Equipment
-    - Other
+    - `Travel`
+    - `Entertainment`
+    - `Supplies / Equipment`
+    - `Other`
 13. Select the **Save** button.
 14. In Sync this choice with field, select the **Expense Type** choice you just created.
 15. Set the Default choice field to **None.**
@@ -81,19 +81,19 @@ The Expense Report table will contain information about the expense report that 
 
 ### Task 3: Create Expense Amount column
 1. Select + New column.
-2. Enter Expense Amount for Display name.
+2. Enter `Expense Amount` for Display name.
 3. Select Currency for Data type.
 4. Select Save.
 
 ### Task 4: Create Item Description column
 1. Select **+ New column.**
-2. Enter *Item Description* for Display name.
+2. Enter *`Item Description`* for Display name.
 3. Select **Multiple Lines of text > Plain Text** for Data type.
 4. Select **Save.**
 
 ### Task 5: Create Expense Date column
 1. Select **+ New column.**
-2. Enter *Expense Date* for the Display Name.
+2. Enter *`Expense Date`* for the Display Name.
 3. Select **Date Only** from the Date and Time group in the Data Type Field.
 4. Expand **Advanced options.**
 5. Set the Time Zone adjustment field to **User Local.**
@@ -101,7 +101,7 @@ The Expense Report table will contain information about the expense report that 
 
 ### Task 6: Create Expense Report column
 1. Select **+ New column.**
-2. Enter *Expense Report* for the Display Name.
+2. Enter *`Expense Report`* for the Display Name.
 3. Select **Lookup** from the Lookup group in the Data Type Field.
 4. In the Related table field, select **Expense Report.**
 5. Select **Save.**
@@ -111,7 +111,7 @@ The Expense Report table will contain information about the expense report that 
 
 ### Task #1: Modify the columns displayed
 1. If necessary, navigate to the Power Apps Maker Portal.
-2. Make sure that you are working in the environment that you imported the `ExpenseReport_1_0_0_1` solution into during the last exercise.
+2. Make sure that you are working in the environment that you imported the **ExpenseReport_1_0_0_1** solution into during the last exercise.
 3. Using the navigation on the left, select **Solutions.**
 4. Locate and select the **Expense Report** solution.
 5. Using the navigation on the left, select **Tables.**
