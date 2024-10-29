@@ -24,7 +24,7 @@ We will work with the following components:
 **Objective:** In this exercise, you will customize views and forms of the custom created tables that will be used in the model-driven app.
 
 ### Task #1: Edit Expense Report Form
-1. If you are not already, sign in to https://make.powerapps.com.
+1. If you are not already, sign in to `https://make.powerapps.com`.
 2. Select the environment that you imported the Expense Report solution into at the top right if it is not already selected.
 3. Using the navigation on the left, select **Solutions.**
 4. Open the Expense Report solution.
@@ -34,7 +34,7 @@ We will work with the following components:
 **IMPORTANT:** Since by default all forms are named Information, make sure to verify that the form you select has a Form Type of Main and not something else. By default, the form has two fields: Report Name and Owner.
 
 ### Task #2: Select columns for the form
-1. On the right side of the screen on the Properties panel, select the **Name** field, and change it to Report Information.
+1. On the right side of the screen on the Properties panel, select the **Name** field, and change it to `Report Information`.
 2. Select **Table columns** from the left navigation pane and add the following fields below the Owner field by dragging columns to the form or simply clicking column names:
     - Description
     - Report Purpose
@@ -42,10 +42,10 @@ We will work with the following components:
     - Report Total
 3. Drag the **Status Reason** column and drop it in the form header. The header is the top right area of the form. You may need to collapse the Properties panel on the right side of the screen to see the field on the form.
 4. Drag the **Last Date for Approval** column and drop it next to Status Reason in the form header.
-5. Select **Owner** field. In the Properties panel, change the Label to *Requestor.*
+5. Select **Owner** field. In the Properties panel, change the Label to *`Requestor`*.
 6. Using the navigation on the left, select **Components.**
 7. Select the 1-column section to have it added below the current section.
-8. In the Properties screen, change the label to **Expense Lines.**
+8. In the Properties screen, change the label to **`Expense Lines`**.
 9. With the Expense Line section still selected, locate and select the **Subgrid** component.
 10. Select the **Show Related Records** check box.
 11. Set the Table to **Expense Lines (Expense Report).**
@@ -57,7 +57,7 @@ We will work with the following components:
 ### Task #3: Edit Active Expense Line Form
 In this task, we will modify the form that is used to add Expense Line Items.
 
-1. If you are not already, sign in to https://make.powerapps.com
+1. If you are not already, sign in to `https://make.powerapps.com`
 2. Select the environment that you imported the Expense Report solution into at the top right if it is not already selected.
 3. Using the navigation on the left, select Solutions.
 4. Open the Expense Report solution.
@@ -66,7 +66,7 @@ In this task, we will modify the form that is used to add Expense Line Items.
 
 **IMPORTANT:** Since by default all forms are named Information, make sure to verify that the form you select has a Form Type of Main and not something else. By default, the form has two fields: Expense Title and Owner.
 
-1. On the right side of the screen on the **Properties** panel, select the **Display Name** field, and change it to Item Details.
+1. On the right side of the screen on the **Properties** panel, select the **Display Name** field, and change it to `Item Details`.
 2. Select **Table columns** from the left navigation pane and add the following fields below the Owner field by dragging columns to the form or simply clicking column names:
     - Expense Type
     - Item Description
