@@ -20,7 +20,7 @@ Upon Successful completion of this lab, you will:
 ## Exercise 1: Create a Personal Dashboard
 
 ### Task #1: Create a new view called My Active Expense Reports
-1. If you are not already, sign in to https://make.powerapps.com.
+1. If you are not already, sign in to `https://make.powerapps.com`.
 2. Select the environment that you imported the Expense Report solution into at the top right if it is not already selected.
 3. Using the navigation on the left, select **Solutions.**
 4. Open the Expense Report solution.
@@ -28,7 +28,7 @@ Upon Successful completion of this lab, you will:
 6. Under Data experiences, select **Views.**
 7. Open the **Active Expense Reports** view.
 8. Select the **Save As** button.
-9. Change the Name to *My Active Expense Reports.*
+9. Change the Name to *`My Active Expense Reports`*.
 10. Select the **Save** button.
 11. In the Filter By section, select **Edit filters.**
 12. Select the **Add** button. From the menu that appears, select **Add Row.**
@@ -61,7 +61,7 @@ Upon Successful completion of this lab, you will:
 21. Once the save is complete select the **Publish** button.
 
 ### Task #3: Add a personal dashboard to the Employee Expense management app
-1. If you are not already, sign in to https://make.powerapps.com.
+1. If you are not already, sign in to `https://make.powerapps.com`.
 2. Select the environment that you imported the Expense Report solution into at the top right if it is not already selected.
 3. Using the navigation on the left, select **Solutions.**
 4. Open the Expense Report solution.
@@ -73,7 +73,7 @@ Upon Successful completion of this lab, you will:
 10. From the menu that appears, select **Dynamics 365 Dashboard.**
 11. Choose **2-column Regular Dashboard.**
 12. Select the **Create** button.
-13. Change the Name of the dashboard to *Expense Report Dashboard.*
+13. Change the Name of the dashboard to *`Expense Report Dashboard`*.
 14. In the Upper Left section, select the **List icon.**
 15. Configure the List as follows:
     - Record Type: Expense Reports
