@@ -58,16 +58,16 @@ Upon Successful completion of this lab, you will:
 7. Select the **vertical ellipses**, and from the menu that appears, select **Edit.**
 8. Select the **Add Page** button.
 9. Select **Dashboard.**
-10. For now, select the **Organization Insights Dashboard.**
+10. Explore the system dashboards that are available by default. When you are ready, select one of the dashboards that you would like to add to your app.
 11. Select **Add.**
 12. Hover over the Expense Reports group under Navigation.
 13. Select the **ellipsis**. From the menu that appears, select **New Group.**
 14. With New Group selected, change the Title to **Dashboards.**
 15. Select the ellipsis next to dashboards and choose **Move Up.** Dashboard should now be located above Expense Reports.
-16. Locate and select the **Organization Insights Dashboard.**
+16. Locate and select the system dashboard that you added earlier in the task.
 17. Select the ellipsis, from the menu that appears, select **Move Up.**
-18. Repeat Step 17 to move the Organization Insights Dashboard above Expense Reports View.
-19. Repeat Step 17 one more time to move the Organization Insights Dashboard into the Dashboards group.
+18. Repeat Step 17 to move the system dashboard above Expense Reports View.
+19. Repeat Step 17 one more time to move the system dashboard into the Dashboards group.
 20. Select the **Save** button.
 21. Once the save is complete select the **Publish** button.
 
@@ -79,7 +79,7 @@ Upon Successful completion of this lab, you will:
 5. Select **Apps.**
 6. Locate the Employee Expense Management model-driven app.
 7. Select the **vertical ellipses**. From the menu that appears, select **Play.**
-8. Under the Dashboards group, select the **Organization Insights Dashboard.**
+8. Under the Dashboards group, select the system dashboard you added in Task 3.
 9. Select the **New** button.
 10. From the menu that appears, select **Dynamics 365 Dashboard.**
 11. Choose **2-column Regular Dashboard.**
