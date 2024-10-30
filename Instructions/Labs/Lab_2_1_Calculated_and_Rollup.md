@@ -12,7 +12,7 @@ Ideally, they want their users to complete an Expense Report after each event or
 
 ## High-level lab steps
 Upon Successful completion of this lab, you will:
-- Add new fields to an existing tables
+- Add new fields to an existing table
 - Create a rollup field
 - Create a calculated field
 
@@ -33,7 +33,7 @@ Upon Successful completion of this lab, you will:
 5. Locate and open the Expense Report table.
 6. Under the Schema Group, select **Columns.**
 7. Select **+New column.**
-8. Enter *Report Total* for Display name.
+8. Enter *`Report Total`* for Display name.
 9. Select **Currency** for Data type.
 10. In Required, select **Optional.**
 11. In the Behavior field, select **Rollup.**
@@ -55,8 +55,8 @@ Upon Successful completion of this lab, you will:
 5. Locate and open the Expense Report table.
 6. Under the Schema Group, select **Columns.**
 7. Select **+New column.**
-8. Enter *Last Date for approval* for Display name.
+8. Enter *`Last Date for approval`* for Display name.
 9. Select **Formula** for Data type.
-10. Enter the following formula: DateAdd('Report Due Date',2)
+10. Enter the following formula: `DateAdd('Report Due Date',2)`
 11. Set the Format field to **Date Only.**
 12. Select the **Save** button. (You need to save the column before you can configure it.)
