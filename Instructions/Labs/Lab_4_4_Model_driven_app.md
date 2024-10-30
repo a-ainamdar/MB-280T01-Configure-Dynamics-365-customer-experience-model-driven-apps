@@ -15,7 +15,7 @@ Throughout this course, you will build applications and perform automation to en
 
 ## High-level lab steps
 As part of configuring the model-driven app, you will complete the following:
-- Configure your new model-driven app named Bellows Expense Management
+- Configure your new model-driven app named Employee Expense Management
 
 We will work with the following components:
 - Views: Views allow the user to display the existing data in the form table.
