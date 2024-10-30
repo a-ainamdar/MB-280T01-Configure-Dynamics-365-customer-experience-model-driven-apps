@@ -12,12 +12,23 @@ Throughout this course, you will build applications and perform automation to en
 
 ## High-level lab steps
 Upon Successful completion of this lab, you will:
-- Create a personal dashboard that displays Expense Report information.
+- Create a new model-driven app
+- Create a personal dashboard that displays Expense Report information
+- Add your views and dashboards to your model-driven app
 
 ## Prerequisites
 - Completion of Module 1 Lab 0 - Validate lab environment
 
 ## Exercise 1: Create a Personal Dashboard
+
+### Task 1: Create your new model-driven app
+1. If you are not already, sign in to `https://make.powerapps.com`.
+2. Select the environment that you imported the Expense Report solution into at the top right if it is not already selected.
+3. Using the navigation on the left, select **Solutions.**
+4. Open the Expense Report solution.
+5. On the command bar, select the **+ New** button.
+6. From the menu that appears, go to **App > Model-driven app.**
+7. Enter *`Employee Expense Management`* for Name and select **Create.**
 
 ### Task #1: Create a new view called My Active Expense Reports
 1. If you are not already, sign in to `https://make.powerapps.com`.
