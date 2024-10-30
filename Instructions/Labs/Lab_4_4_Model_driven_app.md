@@ -30,8 +30,15 @@ Both will be integrated to the model-driven app for a better user-experience.
 For simplicity and time’s sake, we will not be addressing all of the Expense Report columns in this lab.
 
 ## Task 1: Configure the sitemap
-8. After your new model-driven application loads, select the **+ Add Page** button.
-9. On the **Add Page** screen, choose **Dataverse table.** 
+1. If you are not already, sign in to `https://make.powerapps.com`.
+2. Select the environment that you imported the Expense Report solution into at the top right if it is not already selected.
+3. Using the navigation on the left, select **Solutions.**
+4. Open the Expense Report solution.
+5. Find the *`Employee Expense Management`* application that you created in the last exercise.
+6. Select **Edit** to open the modern app designer.
+7. Select **New page** on the command bar.
+8. The **New page** screen will open.
+9. Choose **Dataverse table.**
 10. Select the following tables:
     - Expense Report
     - Expense Line
