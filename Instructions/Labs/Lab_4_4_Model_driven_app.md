@@ -6,13 +6,16 @@ lab:
 # Lab 4.4: Build a model-driven app
 
 ## Scenario
-Bellows College is an educational organization with multiple campuses and programs. Many of Bellow Colleges instructors and administrators need to attend events, and purchase items. Historically tracking these expenses has been a challenge.
+Bellows College is an educational organization with multiple campuses and programs.
+
+Many of Bellow Colleges instructors and administrators need to attend events, and purchase items. Historically tracking these expenses has been a challenge.
 Campus administration would like to modernize their expense reporting system by providing employees with a digital way to report expenses.
+
 Throughout this course, you will build applications and perform automation to enable the Bellows College employees to manage expenses.
 
 ## High-level lab steps
-As part of creating the model-driven app, you will complete the following:
-- Create a new model-driven app named Bellows Expense Management
+As part of configuring the model-driven app, you will complete the following:
+- Configure your new model-driven app named Bellows Expense Management
 
 We will work with the following components:
 - Views: Views allow the user to display the existing data in the form table.
@@ -23,17 +26,10 @@ Both will be integrated to the model-driven app for a better user-experience.
 - Completion of Module 1 Lab 0 - Validate lab environment
 
 ## Exercise 1: Create Model-driven app
-**Objective:** In this exercise, you will create a model-driven app, customize the sitemap, and test the app.
+**Objective:** In this exercise, you will use the model-driven app that you configured in Lab 4.3. You will then customize the sitemap and test the app.
 For simplicity and time’s sake, we will not be addressing all of the Expense Report columns in this lab.
 
-### Task #1: Create app
-1. If you are not already, sign in to `https://make.powerapps.com`.
-2. Select the environment that you imported the Expense Report solution into at the top right if it is not already selected.
-3. Using the navigation on the left, select **Solutions.**
-4. Open the Expense Report solution.
-5. On the command bar, select the **+ New** button.
-6. From the menu that appears, go to **App > Model-driven app.**
-7. Enter *`Employee Expense Management`* for Name and select **Create.**
+## Task 1: Configure the sitemap
 8. After your new model-driven application loads, select the **+ Add Page** button.
 9. On the **Add Page** screen, choose **Dataverse table.** 
 10. Select the following tables:
