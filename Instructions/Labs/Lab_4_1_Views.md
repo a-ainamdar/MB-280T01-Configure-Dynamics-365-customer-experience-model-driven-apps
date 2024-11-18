@@ -33,7 +33,7 @@ Completion of Module 1 Lab 0 - Validate lab environment
 
 ### Task #1: Edit the different Expense Lines views
 
-1. If you are not already, sign in to https://make.powerapps.com.
+1. If you are not already, sign in to `https://make.powerapps.com`.
 2. Select the environment that you imported the Expense Report solution into at the top right if it is not already selected.
 3. Using the navigation on the left, select **Solutions.**
 4. Open the Expense Report solution.
@@ -75,7 +75,7 @@ Finally, we will repeat that process one more time to update the Quick Find Acti
 
 ### Task #4: Edit the different Expense Reports views
 
-1. If you are not already, sign in to https://make.powerapps.com.
+1. If you are not already, sign in to `https://make.powerapps.com`.
 2. Select the environment that you imported the Expense Report solution into at the top right if it is not already selected.
 3. Using the navigation on the left, select **Solutions.**
 4. Open the Expense Report solution.
@@ -115,7 +115,7 @@ Finally, we will repeat that process one more time to update the Quick Find Acti
 
 ### Task #7: Create a new view called Expenses Reports Due today
 
-1. If you are not already, sign in to https://make.powerapps.com.
+1. If you are not already, sign in to `https://make.powerapps.com`.
 2. Select the environment that you imported the Expense Report solution into at the top right if it is not already selected.
 3. Using the navigation on the left, select **Solutions.**
 4. Open the Expense Report solution.
@@ -123,7 +123,7 @@ Finally, we will repeat that process one more time to update the Quick Find Acti
 6. Under Data experiences, select **Views.**
 7. Open the Active Expense Reports view.
 8. Select the **Save As** button.
-9. Change the Name to *Expense Reports Due Today.*
+9. Change the Name to *`Expense Reports Due Today`*.
 10. Select the **Save** button.
 11. In the Filter By section, select **Edit filters.**
 12. Select the **Add button.** From the menu that appears, select **Add Row.**
